@@ -1,3 +1,4 @@
+// Nguyễn Lâm Trắng Kiệt 
 // Hàm random số từ 0-10
 function getRandomNumber() {
     return Math.floor(Math.random() * 11);
